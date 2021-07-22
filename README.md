@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ib2jgawh2vll14c3sx9ekup1r&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
