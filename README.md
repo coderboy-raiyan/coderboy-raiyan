@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/BYJ9woUTruFhqubgBs/giphy.gif)
+![](https://giphy.com/gifs/BYJ9woUTruFhqubgBs/fullscreen)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raiyan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
