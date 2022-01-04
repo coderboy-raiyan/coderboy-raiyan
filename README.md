@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently Learning **Node,Next js,Data Structure & Algorithms**
 - 💻 Most used code-editor `Visual studio Code`
-- 🎯 2021 Goals: **MERN Stack Development**
+- 🎯 2022 Goals: **Data Structure & Algorithms**
 - 🎥 Fun Fact: I love to watching films both bollywood and hollywood.
 - 📃 My Resume: - [Click Here](https://drive.google.com/file/d/1IOpG6du8CIztxO2acpoJ1jJsPl325vNt/view?usp=sharing)
 <!-- - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app) -->
