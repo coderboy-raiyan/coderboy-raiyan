@@ -7,7 +7,7 @@
 
 ### Here are some ideas about me
 
-- 🌱 I'm currently Learning **Node,Next js,Data Structure & Algorithms**
+- 🌱 I'm currently Learning **Data Structure & Algorithms**
 - 💻 Most used code-editor `Visual studio Code`
 - 🎯 2022 Goals: **Data Structure & Algorithms**
 - 🎥 Fun Fact: I love to watching films both bollywood and hollywood.
