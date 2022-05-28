@@ -11,7 +11,7 @@
 - 💻 Most used code-editor `Visual studio Code`
 - 🎯 2022 Goals: **Data Structure & Algorithms**
 - 🎥 Fun Fact: I love to watching films both bollywood and hollywood.
-- 📃 My Resume: - [Click Here]([https://drive.google.com/file/d/145t8MYI0qzrmdr9tesYPa0NPqtrSTQpr/view?usp=sharing])
+- 📃 My Resume: - [Click Here](https://drive.google.com/file/d/145t8MYI0qzrmdr9tesYPa0NPqtrSTQpr/view?usp=sharing)
 <!-- - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app) -->
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=coderboy-raiyan)
