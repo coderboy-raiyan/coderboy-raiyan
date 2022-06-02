@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/kDn706C/Minimal-Creative-Director-Profile-Header-Linked-In-Banner-1.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raiyan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Raiyan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
 <p dir="auto" align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/31e3180147b374744f3bd732e84d07f3c1ed3d6ecee18e3d2134764e4511716c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333336424346372673697a653d32322663656e7465723d747275652677696474683d353530266c696e65733d48656c6c6f2532432b677579732532432b49276d2b612b4d45524e2b537461636b2b446576656c6f7065723b416e642b49276d2b616c776179732b72656164792b746f2b636f6c6c61626f726174652b776974682b796f75" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;size=22&amp;center=true&amp;width=550&amp;lines=Hello%2C+guys%2C+I'm+a+MERN+Stack+Developer;And+I'm+always+ready+to+collaborate+with+you" style="max-width: 100%;"></a></p>
