@@ -18,6 +18,8 @@
 
 ![Profile Follower Count](https://img.shields.io/github/followers/coderboy-raiyan.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 
+<a href="https://app.daily.dev/coderboy-raiyan"><img src="https://github.com/coderboy-raiyan/coderboy-raiyan/blob/main/devcard.svg" width="400" alt="MD.Tajkier Haque Raiyan's Dev Card"/></a>
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ib2jgawh2vll14c3sx9ekup1r&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/coderboy-raiyan)
