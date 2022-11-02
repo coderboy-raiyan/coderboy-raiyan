@@ -61,10 +61,9 @@
 [![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/coderboy-raiyan)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/coderboy-raiyan)
 
-<div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=coderboy-raiyan&show_icons=true&theme=radical"/>
+<div>
 <img align=top src="https://github.com/coderboy-raiyan/coderboy-raiyan/blob/main/devcard.svg" width="200" alt="MD.Tajkier Haque Raiyan's Dev Card"/>
-  
   <img  align=top  alt="coderboy-raiyan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy-raiyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 
