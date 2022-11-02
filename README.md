@@ -64,9 +64,11 @@
 <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=coderboy-raiyan&show_icons=true&theme=radical"/>
 <img align=top src="https://github.com/coderboy-raiyan/coderboy-raiyan/blob/main/devcard.svg" width="200" alt="MD.Tajkier Haque Raiyan's Dev Card"/>
+  
+  <img  align=top  alt="coderboy-raiyan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy-raiyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy-raiyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 # 🚀 Some Projects
 
