@@ -1,4 +1,4 @@
-![](https://asset.cloudinary.com/dayleukzg/bbad1c8c76b23063dd731c1291fd3e29)
+![](https://res.cloudinary.com/dayleukzg/image/upload/v1673519476/Personal/Colorful_Shapes_Header_Banner_vymvqi.png)
 
 <h1 align="center">Hi, I'm Raiyan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
