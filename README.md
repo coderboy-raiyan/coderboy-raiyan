@@ -1,4 +1,4 @@
-![](https://i.ibb.co/kDn706C/Minimal-Creative-Director-Profile-Header-Linked-In-Banner-1.png)
+![](https://asset.cloudinary.com/dayleukzg/bbad1c8c76b23063dd731c1291fd3e29)
 
 <h1 align="center">Hi, I'm Raiyan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
