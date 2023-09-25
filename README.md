@@ -1,4 +1,4 @@
-![](https://i.ibb.co/1q2hncx/Software-Engineer-2.png)
+![](https://res.cloudinary.com/dayleukzg/image/upload/v1695638180/Personal/yyjphplv6hp3onl58ksr.png)
 
 
 
