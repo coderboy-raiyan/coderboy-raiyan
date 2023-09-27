@@ -2,7 +2,19 @@
 
 
 
-<h1 align="center">Hi, I'm Raiyan</h1>
+  <div align="center">
+   <a href="https://leetcode.com/tajkierhaqueraiyan" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
+   <a href="=https://codeforces.com/profile/tajkierhaque" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces Badge"/>
+    </a>
+    <a href="https://www.hackerrank.com/tajkierhaque" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank Badge"/>
+    </a>
+   
+</div>
+
 
 ### Here are some ideas about me
 
