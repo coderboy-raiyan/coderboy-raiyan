@@ -74,5 +74,5 @@
   
  <img  align=top  alt="coderboy-raiyan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy-raiyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
-
+<a href="https://app.daily.dev/tajkierhaqueraiyan"><img src="https://api.daily.dev/devcards/v2/WvDyGPJ6JyxL8RPokJeU4.png?type=wide&r=6ea" width="652" alt="Tajkier Haque Raiyan's Dev Card"/></a>
 
