@@ -20,7 +20,7 @@
 
 - 🌱 I'm currently Learning **Data Structure & Algorithms**
 - 💻 Most used code-editor `Visual studio Code`
-- 🎯 2024 Goals: **Data Structure & Algorithms**
+- 🎯 2025 Goals: **Use Productive Code to automate human life**
 - 🎥 Fun Fact: I love to watching films both bollywood and hollywood.
 - 📃 My Resume: - [Click Here](https://drive.google.com/file/d/145t8MYI0qzrmdr9tesYPa0NPqtrSTQpr/view?usp=sharing)
 <!-- - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app) -->
